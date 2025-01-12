@@ -11,8 +11,8 @@
 }
 
 *{
-    margin-left: 20px;
-    margin-right: 20px;
+    margin-left: 30px;
+    margin-right: 30px;
     padding: 0;
 }
 /* header */
@@ -34,4 +34,39 @@
     align-items: center;
     padding: 50px 70px 50px 70px;
     background-color: #C6E4D6;
+    border-radius: 10px;
 }
+
+<!--The vision of future-->
+.future{
+    text-align: center;
+    justify-content: center;
+}
+.vision{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    margin: 30px;  
+    
+}
+.digital{
+    list-style-type: none;
+    background-color: rgba(84, 142, 245, 0.2);
+    border-radius: 10px;
+    
+}
+.green{
+    list-style-type: none;
+    list-style-type: none;
+    background-color: rgba(198, 228, 214, 1);
+    border-radius: 10px;
+}
+    .modern{
+        list-style-type: none;
+        list-style-type: none;
+    list-style-type: none;
+    background-color: rgba(247, 235, 207, 1);
+    border-radius: 10px;
+    }
+
+
